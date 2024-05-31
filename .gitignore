@@ -1,0 +1,9 @@
+.venv
+.idea
+compose
+media
+static
+.dockerignore
+.static
+docker-compose.yaml
+
